@@ -1,42 +1,47 @@
 ---
 authors:
 - qwang
-bio: Postdoctoral Associate
+bio: Postdoctoral Researcher
 education:
   courses:
   - course: PhD in Geophysics
-    institution: Institut des Sciences de la Terre
+    institution: Institut des Sciences de la Terre, Université Grenoble Alpes, France
     year: 2018
-email: "qingyu.wang@univ-grenoble-alpes.fr"
-#interests:
-# - Earthquakes
-# - Long Period Earthquakes
-# - Volcanoes
-# - Glaciology
+  - course: MSc in Geophysics
+    institution: Institut des Sciences de la Terre, Université Grenoble Alpes, France
+    year: 2015
+  - course: BSc in Geosciences
+    institution: Université Joseph Fourier, France
+    year: 2013
+email: "qingyuwa@mit.edu"
+interests:
+ - Earthquakes
+ - Long Period Earthquakes
+ - Ambient seismic noise
+ - Seismic monitoring
+
 organizations:
-- name: Institut des Sciences de la Terre
-  url: "https://www.isterre.fr"
+- name: Massachusetts Institute of Technology
+  url: "https://eapsweb.mit.edu"
 role: Postdoctoral Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:qingyu.wang@univ-grenoble-alpes.fr'
+  link: 'mailto:qingyuwa@mit.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/MathildeWimez
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=76QFWaoAAAAJ&hl=en
-#- icon: researchgate
-#  icon_pack: fab
-#  link: https://www.researchgate.net/profile/Mathilde_Wimez
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.fr/citations?user=66bmb7wAAAAJ&hl=fr
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Qing_Yu_Wang
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/MWimez
-superuser: false
+superuser: true
 title: Qingyu Wang
 user_groups:
-- Visitors
+- Group
 ---
-
-Qingyu will be joining us at MIT ASAP!
